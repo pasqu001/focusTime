@@ -87,12 +87,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   title: {
-    colors: colors.white,
+    color: colors.white,
     fontWeight: 'bold',
     textAlign: 'center',
   },
   task: {
-    colors: colors.white,
+    color: colors.white,
     fontWeight: 'bold',
     textAlign: 'center',
   },
